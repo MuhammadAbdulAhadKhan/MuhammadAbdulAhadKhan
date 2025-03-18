@@ -22,7 +22,3 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdul-ahad-khan-637a63247/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/mabdulahadkhanofficial?igsh=MXdwcHZ2b2hieDc3ZA==" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdulAhadKhan&show_icons=true&locale=en" alt="MuhammadAbdulAhadKhan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAbdulAhadKhan&" alt="MuhammadAbdulAhadKhan" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAbdulAhadKhan&show_icons=true&locale=en&layout=compact" alt="MuhammadAbdulAhadKhan" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadAbdulAhadKhan" alt="MuhammadAbdulAhadKhan" /></a></p>

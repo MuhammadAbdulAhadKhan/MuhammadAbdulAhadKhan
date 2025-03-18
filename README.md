@@ -1,5 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/98aee58c-96d1-4b79-988d-1294cea289e8)
-<h1>Hi 👋, I'm Abdul Ahad</h1>
+
+<h1>🌟 Assalam U Alaikum! 👋</h1>
+<h2>Hi 👋, I'm Abdul Ahad</h2>
 <p>A passionate App developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>

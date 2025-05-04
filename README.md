@@ -27,5 +27,13 @@
 <a target="_blank" href="https://www.instagram.com/mabdulahadkhanofficial/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 <h1>💻 My Recent Project</h1>
+<h2>Mushaf Quran App Beta Version 1.0</h2>
+<h2>Developed by Muhammad Abdul Ahad Khan</h2>
+
+<p><b>The Mushaf Quran App offers a comprehensive platform for reading and listening to the complete Quran with accurate Urdu translation.
+Additionally, the app features the 99 Names of Allah, allowing users to reflect on the attributes of the Almighty.
+With its sleek, modern interface, the app ensures an intuitive and engaging user experience.
+As part of continuous development, we are committed to incorporating more features to better meet user needs in future updates.</b></p>
+
 
 ![financial](https://github.com/user-attachments/assets/e0928b74-1b2e-49f5-8209-7e95c7b4599b)

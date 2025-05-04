@@ -28,8 +28,6 @@
 
 <h1>💻 My Recent Project</h1>
 
-
-
 ![financial](https://github.com/user-attachments/assets/e0928b74-1b2e-49f5-8209-7e95c7b4599b)
 
 

@@ -51,7 +51,7 @@ We are committed to continuous improvement and will be introducing **new feature
 
 ## 🖼️ Preview
 
-| ![Screenshot](https://github.com/user-attachments/assets/baefb04f-644f-4985-88b3-1b372ef835a7) | <a href="https://github.com/user-attachments/assets/3e238214-baf2-4e9a-999a-83eea24bb93d" width="100%">Click To Play Video</a>|
+| ![Screenshot](https://github.com/user-attachments/assets/baefb04f-644f-4985-88b3-1b372ef835a7) | <a href="https://github.com/user-attachments/assets/3e238214-baf2-4e9a-999a-83eea24bb93d" width="100%">Click Here To Play Video</a>|
 |:--:|:--:|
 | Main UI | App Preview |
 

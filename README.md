@@ -30,16 +30,27 @@
 
 **Developed with ❤️ using Flutter**
 
-![DR TRACK](https://github.com/user-attachments/assets/db03cf17-9d40-42e2-9c60-be6a7754c189)
+## 🖼️ Dr.Track Preview
+
+| ![DR TRACK](https://github.com/user-attachments/assets/db03cf17-9d40-42e2-9c60-be6a7754c189) | <a href="https://github.com/user-attachments/assets/3e238214-baf2-4e9a-999a-83eea24bb93d" width="100%">Click Here To Play Video</a>|
+|:--:|:--:|
+| Main UI | App Preview |
+
+---
 
 
+## 🖼️ ToDo Preview
 
 
+| ![TODOAPP](https://github.com/user-attachments/assets/02ddcf3f-39d3-4b84-94e4-4effedcc1e6c) | <a href="https://github.com/user-attachments/assets/7e5c9c58-dabd-4cc4-ab96-d8a38f5369f8
+" width="100%">Click Here To Play Video</a>|
+|:--:|:--:|
+| Main UI | App Preview |
 
-![TODOAPP](https://github.com/user-attachments/assets/213a6c2c-f8cd-4c10-aaaf-571b774db039)
+---
 
 
-## 🖼️ Preview
+## 🖼️ Mushaf Preview
 
 | ![Screenshot](https://github.com/user-attachments/assets/baefb04f-644f-4985-88b3-1b372ef835a7) | <a href="https://github.com/user-attachments/assets/3e238214-baf2-4e9a-999a-83eea24bb93d" width="100%">Click Here To Play Video</a>|
 |:--:|:--:|

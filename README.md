@@ -42,8 +42,7 @@
 ## 🖼️ ToDo Preview
 
 
-| ![TODOAPP](https://github.com/user-attachments/assets/02ddcf3f-39d3-4b84-94e4-4effedcc1e6c) | <a href="https://github.com/user-attachments/assets/7e5c9c58-dabd-4cc4-ab96-d8a38f5369f8
-" width="100%">Click Here To Play Video</a>|
+| ![TODOAPP](https://github.com/user-attachments/assets/02ddcf3f-39d3-4b84-94e4-4effedcc1e6c) | <a href="https://github.com/user-attachments/assets/7e5c9c58-dabd-4cc4-ab96-d8a38f5369f8" width="100%">Click Here To Play Video</a>|
 |:--:|:--:|
 | Main UI | App Preview |
 

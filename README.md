@@ -63,4 +63,4 @@
 If you have suggestions, bug reports, or ideas, feel free to Reachout me.
 
 
-<a target="_blank" href="[https://www.instagram.com/mabdulahadkhanofficial/](https://androidknowledge.com/login-page-in-android-studio/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a href="https://androidknowledge.com/login-page-in-android-studio/">OK</a>

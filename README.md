@@ -32,7 +32,7 @@
 
 ## 🖼️ Dr.Track Preview
 
-| ![DR TRACK](https://github.com/user-attachments/assets/db03cf17-9d40-42e2-9c60-be6a7754c189) | <a href="https://github.com/user-attachments/assets/6721604f-e33f-4fba-a31a-03149c41daa1" width="100%">Click Here To Play Video</a>|
+| ![DR TRACK](https://github.com/user-attachments/assets/06c97371-1093-45b1-9ac0-653a3781c6ed) | <a href="https://github.com/user-attachments/assets/6721604f-e33f-4fba-a31a-03149c41daa1" width="100%">Click Here To Play Video</a>|
 |:--:|:--:|
 | Main UI | App Preview |
 
@@ -61,6 +61,4 @@
 ## 📬 Feedback & Contributions
 
 If you have suggestions, bug reports, or ideas, feel free to Reachout me.
-
-![DR TRACK](https://github.com/user-attachments/assets/06c97371-1093-45b1-9ac0-653a3781c6ed)
 

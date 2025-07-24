@@ -30,8 +30,7 @@
 
 **Developed with ❤️ using Flutter**
 
-![Screenshot 2025-07-02 234655](https://github.com/user-attachments/assets/d9b9ab80-7bfd-4632-aa4f-41ff68130800)
-
+<img width="1346" height="605" alt="Screenshot 2025-07-02 234655" src="https://github.com/user-attachments/assets/5f2f01e3-fc92-48f3-b0f7-13a52e3661c0" />
 
 ---
 

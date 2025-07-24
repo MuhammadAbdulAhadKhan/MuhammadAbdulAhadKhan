@@ -30,6 +30,21 @@
 
 **Developed with ❤️ using Flutter**
 
+![Screenshot 2025-07-02 234655](https://github.com/user-attachments/assets/d9b9ab80-7bfd-4632-aa4f-41ff68130800)
+
+
+---
+
+## 📥 Click To Download APK
+
+### 👉 [![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/MuhammadAbdulAhadKhan/MushafQuranApp/releases/download/v1.0.0/Download-mushaf-app-release.apk)
+
+> 📱 **Minimum Android:** 6.0 (Marshmallow)  
+> 🗂️ **APK Size:** ~159 MB
+
+---
+
+
 ## 🖼️ Dr.Track Preview
 
 | ![DR TRACK](https://github.com/user-attachments/assets/06c97371-1093-45b1-9ac0-653a3781c6ed) | <a href="https://github.com/user-attachments/assets/6721604f-e33f-4fba-a31a-03149c41daa1" width="100%">Click Here To Play Video</a>|

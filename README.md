@@ -34,7 +34,16 @@
 
 ---
 
-## 📥 Click To Download APK
+
+## 🖼️ Mushaf Preview
+
+| ![Screenshot](https://github.com/user-attachments/assets/baefb04f-644f-4985-88b3-1b372ef835a7) | <a href="https://github.com/user-attachments/assets/3e238214-baf2-4e9a-999a-83eea24bb93d" width="100%">Click Here To Play Video</a>|
+|:--:|:--:|
+| Main UI | App Preview |
+
+---
+
+## 📥 Click To Download Mushaf Quran APK
 
 ### 👉 [![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/MuhammadAbdulAhadKhan/MushafQuranApp/releases/download/v1.0.0/Download-mushaf-app-release.apk)
 
@@ -53,6 +62,14 @@
 ---
 
 
+## 📥 Click To Download Dr.Track APK
+
+### 👉 [![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/MuhammadAbdulAhadKhan/Dr.TrackApp/releases/download/APK/Dr.TrackApp.apk)
+
+> 🗂️ **APK Size:** ~77 MB
+
+---
+
 ## 🖼️ ToDo Preview
 
 
@@ -60,14 +77,7 @@
 |:--:|:--:|
 | Main UI | App Preview |
 
----
 
-
-## 🖼️ Mushaf Preview
-
-| ![Screenshot](https://github.com/user-attachments/assets/baefb04f-644f-4985-88b3-1b372ef835a7) | <a href="https://github.com/user-attachments/assets/3e238214-baf2-4e9a-999a-83eea24bb93d" width="100%">Click Here To Play Video</a>|
-|:--:|:--:|
-| Main UI | App Preview |
 
 ---
 

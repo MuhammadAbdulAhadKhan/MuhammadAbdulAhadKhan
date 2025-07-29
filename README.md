@@ -77,7 +77,13 @@
 |:--:|:--:|
 | Main UI | App Preview |
 
+---
 
+## 📥 Click To Download Todo App APK
+
+### 👉 [![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/MuhammadAbdulAhadKhan/ToDoApp/releases/download/TodoAppApk/TodoApp.apk)
+
+> 🗂️ **APK Size:** ~53.3 MB
 
 ---
 

@@ -35,7 +35,7 @@
 ---
 
 
-## 🖼️ Mushaf Preview
+## 🖼️ Mushaf Preview This app Contains Ad's
 
 | ![Screenshot](https://github.com/user-attachments/assets/baefb04f-644f-4985-88b3-1b372ef835a7) | <a href="https://github.com/user-attachments/assets/3e238214-baf2-4e9a-999a-83eea24bb93d" width="100%">Click Here To Play Video</a>|
 |:--:|:--:|
